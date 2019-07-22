@@ -1,6 +1,7 @@
 echo "# HtmlDemo" >> README.md
-git init
+git init 
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/miRepositorioGit/HtmlDemo.git
+git remote add origin https://github.com/miRepositorioGit/TestHtml.git
 git push -u origin master
+
